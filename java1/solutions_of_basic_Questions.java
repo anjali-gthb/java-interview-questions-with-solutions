@@ -91,4 +91,8 @@ public class solutions_of_basic_Questions{
     // }
     // System.out.println("sum :"+sum);
     }
+
+
+
+    // 0
 }
